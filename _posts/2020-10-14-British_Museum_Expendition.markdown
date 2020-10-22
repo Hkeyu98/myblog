@@ -5,7 +5,17 @@ date:   2020-10-14 12:00:00 +0100
 categories: jekyll update
 ---
 
-The ***Eyptian Exhibition*** amazed me a lot. The Egyptian history has always been my fav section in my popular science readings since my childhood -- through my imagination based on the pictures, when I'm still away from the UK. But know, we can see it in 3D version thanks to British Museum's association with Sketchfab.
+The ***Eyptian Exhibition*** amazes me a lot. The Egyptian history has always been my fav section in my educational readings since my childhood -- and I see it through my imagination based on the pictures, when I'm still away from the UK. But know, we can see it in 3D version thanks to British Museum's association with Sketchfab.
+
+
+  ![Photo by Hazel](/media/british_museum.jpeg)
+  > The photo I took in British Museum on site.
+
+
+I consider that the ***3D scanning & exhibition*** is one of digital technologies that bring huge difference to the experience of visiting museums. The old type of scanning usually ignore the importance of material properties to an exhibits such as textiles and stokes, whilst 3D scanning could give me some ideas. 
+
+Why not try it?
+
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1e03509704a3490e99a173e53b93e282/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -14,5 +24,3 @@ The ***Eyptian Exhibition*** amazed me a lot. The Egyptian history has always be
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
-
-I consider that the ***3D scanning & exhibition*** is one of digital technologies that bring huge difference to the experience of visiting museums. The old type of scanning usually ignore the importance of material properties to an exhibits such as textiles and stokes, whilst 3D scanning could give me some ideas.
