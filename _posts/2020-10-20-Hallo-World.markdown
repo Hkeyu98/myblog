@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “British Museum Expendition”
+title:  "British Museum Expendition"
 date:   2020-10-20 12:00:00 +0100
 categories: jekyll update
 ---

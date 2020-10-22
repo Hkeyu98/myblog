@@ -20,9 +20,8 @@
 
 title: Hazel's Blog
 email: k20097789@kcl.ac.uk
-description: >- 
-Welcome everyone. Here's Hazel.
-This is a website to store my blog feedings from my study in the Cultural Web.
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome everyone. Here's Hazel. This is a website to store my blog feedings from my study in the Cultural Web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
