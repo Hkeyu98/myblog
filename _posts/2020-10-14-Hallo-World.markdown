@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "British Museum Expendition"
-date:   2020-10-20 12:00:00 +0100
+date:   2020-10-14 12:00:00 +0100
 categories: jekyll update
 ---
 
@@ -14,4 +14,5 @@ The ***Eyptian Exhibition*** amazed me a lot. The Egyptian history has always be
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
-I reall
+
+I consider that the ***3D scanning & exhibition*** is one of digital technologies that bring huge difference to the experience of visiting museums. The old type of scanning usually ignore the importance of material properties to an exhibits such as textiles and stokes, whilst 3D scanning could give me some ideas.

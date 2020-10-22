@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A little about me"
-date:   2020-10-21 12:00:00 +0100
+date:   2020-10-07 12:00:00 +0100
 categories: Figure
 ---
 
@@ -13,16 +13,19 @@ categories: Figure
 
  I'm fascinated with the impact that digital technologies would bring to humanities courses. 
 
- <img src="/media/hazel.tate.jpeg" width="300" alt="Me at Tate" align=center>
+ <img src="/media/hazel_02.jpeg" width="300" alt="Me at Tate" align=center>
                 
 ### My top 5 museums and galleries ###
 1. [Tate Modern]("https://www.tate.org.uk/visit/tate-modern")
 
-   > **Tate Modern** is my fav ever since my first visit in London. I love its curations dedicated to modern arts that are usually delicate interpretations to modern motifs utilising audio-visual contents.
+   > My fav ever since my first visit in London. I love its curations dedicated to modern arts that are usually delicate interpretations to modern motifs utilising audio-visual contents.
 
 2. [The Met]("https://www.metmuseum.org")
-> From my dad's recommendation! And i really appreciate 
+    > From my sis's recommendation! 
 3. [V&A]("https://www.vam.ac.uk")
-4. [Red Brick]("http://www.redbrickartmuseum.org")
-5. [H.R.Giger]("https://www.hrgigermuseum.com/index2.php?option=gallery")
+    > Remarkable souvenir shop. And I am soo in love with the ideas of exhibition curating in V&S.
+4. [Shanghai Science and Technology Museum]("http://www.sstm.org.cn/")
+    > My childhood dreamland! I can spend a whole summer visiting it everyday since there are abundant choices of huge screen documentaries.
+5. [H.R.Giger Museum]("https://www.hrgigermuseum.com/index2.php?option=gallery")
+    > No need to mention. Giger was my favourite design artist that have connection with movie industry.
                 
